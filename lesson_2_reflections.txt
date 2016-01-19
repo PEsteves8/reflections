@@ -10,3 +10,15 @@ What value do you think it offers?
 The staging area includes the files that will be part of a commit. It allows the user
 to just commit the files that actually matter. Files that never change don't have to be
 there.
+//
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the staging area to make sure that I only commit what I want. I can choose
+to just commit whatever is related to a specific logical change.
+//
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+Situtations in which the programmer wants to change the code drastically to try a different approach
+or a whole different version of the program. Branches allow you to save a backup
+or the original version before branching.
