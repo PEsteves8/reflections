@@ -8,3 +8,15 @@ stay up-to-date with your remote repository?
 
 So that I can choose exactly what I want to be pulled. There are a lot of changes that might not
 be final.
+//
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is similar to a clone of another respository on Github, but it is made in a way that there's a record
+of where it came from. It's useful to allow programmers to make changes to previous repositories without
+changing the original and while giving credit to the original repository owner.
+
+Clones are copies of the git repository and branches. Useful get a copy of a github repository to a
+local  machine or to just share to respository with someone else in a simple way.
+
+Branches are paralel "timelines" of the code that can then be merged. Useful for experiments or
+different versions of the program.
