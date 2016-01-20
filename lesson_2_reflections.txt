@@ -34,3 +34,8 @@ the diagram the way we do?
 The new code from each branch will be added, according to the differences between
 the branches and their original common code. A new commit gets created with the
 code from both branches.
+//
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: More often than not, less work; Faster; Can make the programmer know about conflicts that otherwise he/she wouldn't notice.
+Cons: Can have unexpected results; Simple conflicts can come up that wouldn't happen if the merge was manual.
