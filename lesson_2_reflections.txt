@@ -22,3 +22,8 @@ How would branches help?
 Situtations in which the programmer wants to change the code drastically to try a different approach
 or a whole different version of the program. Branches allow you to save a backup
 or the original version before branching.
+//
+How do the diagrams help you visualize the branch structure?
+
+The diagrams show the different branches allowing the programmer to easily see
+the different branches of the project.
