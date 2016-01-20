@@ -27,3 +27,10 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams show the different branches allowing the programmer to easily see
 the different branches of the project.
+//
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+The new code from each branch will be added, according to the differences between
+the branches and their original common code. A new commit gets created with the
+code from both branches.
