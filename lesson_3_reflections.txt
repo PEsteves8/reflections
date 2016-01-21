@@ -20,3 +20,7 @@ local  machine or to just share to respository with someone else in a simple way
 
 Branches are paralel "timelines" of the code that can then be merged. Useful for experiments or
 different versions of the program.
+//
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It helps the user to know how the different version aren't in sync.
